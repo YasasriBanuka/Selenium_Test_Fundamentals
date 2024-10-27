@@ -11,9 +11,10 @@ public class ButtonExample_Test {
     @BeforeMethod
     public void openButtonTestPage() {
         driver = new ChromeDriver();
-//        Dimension newSize = new Dimension(800,600);
-//        //fixed browser pc screen size
-//        driver.manage().window().setSize(newSize);
+
+          // Dimension newSize = new Dimension(800,600);
+       // fixed browser pc screen size
+     // driver.manage().window().setSize(newSize);
         driver.manage().window().maximize();
         driver.get("https://www.leafground.com/button.xhtml");
     }
