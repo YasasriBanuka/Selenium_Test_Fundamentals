@@ -1,1 +1,1 @@
-This project is designed to help I learn and practice automation testing using Selenium WebDriver, along with related tools and frameworks. It provides hands-on experience with building, executing, and refining test cases for web applications.
+This project is designed to help I learn and practice automation testing using Selenium WebDriver, along with related tools and frameworks. It provides hands-on experience with building, executing, and refining test cases for mega city web applications.
